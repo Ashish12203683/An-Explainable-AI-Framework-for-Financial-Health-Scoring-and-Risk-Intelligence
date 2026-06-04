@@ -1,0 +1,2 @@
+# An-Explainable-AI-Framework-for-Financial-Health-Scoring-and-Risk-Intelligence
+This project develops an Explainable Artificial Intelligence (XAI) framework for assessing financial health and predicting financial risk using machine learning techniques. The system analyzes financial indicators, performs data preprocessing and feature engineering, and generates interpretable risk scores to support data-driven decision-making.
